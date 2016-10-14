@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Offers tutorial</string>
+    <string name="no_available_offers">No available offers</string>
+    <string name="enter_uid">Enter UID</string>
+    <string name="enter_api_key">Enter API Key</string>
+    <string name="enter_api_id">Enter APP ID</string>
+    <string name="enter_pub0">Enter pub0</string>
+    <string name="get_offers">Get offers</string>
+
+    <string name="required_field">This field required</string>
+    <string name="invalid_uid">Invalid UID</string>
+    <string name="invalid_app_id">Invalid APP ID</string>
+    <string name="invalid_api_key">Invalid API Key</string>
+
+    <string name="no_connection">No internet connection</string>
+
+    <string name="internal_server_error">Error on the Fyber server</string>
+    <string name="bad_request">Bad request</string>
+    <string name="response_bundle">offers</string>
+    <string name="request_failed">Request failed</string>
+</resources>
